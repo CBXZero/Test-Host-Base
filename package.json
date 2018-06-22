@@ -1,0 +1,26 @@
+{
+  "name": "test-host-base",
+  "version": "1.0.0",
+  "description": "A class used for testing angular applications",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CBXZero/angular-test-host-base.git"
+  },
+  "author": "CBXZero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CBXZero/angular-test-host-base/issues"
+  },
+  "homepage": "https://github.com/CBXZero/angular-test-host-base#readme",
+  "dependencies": {
+    "@angular/common": "^6.0.6",
+    "@angular/core": "^6.0.6",
+    "@angular/platform-browser": "^6.0.6",
+    "rxjs": "^6.2.1",
+    "zone.js": "^0.8.26"
+  }
+}
