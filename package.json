@@ -1,6 +1,6 @@
 {
   "name": "test-host-base",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A class used for testing angular applications",
   "main": "dist/index.js",
   "scripts": {
@@ -18,9 +18,10 @@
   },
   "homepage": "https://github.com/CBXZero/angular-test-host-base#readme",
   "dependencies": {
-    "@angular/common": "^7.2.0",
-    "@angular/core": "^7.2.0",
-    "@angular/platform-browser": "^7.2.0",
+    "@angular/common": "*",
+    "@angular/core": "*",
+    "@angular/platform-browser": "*",
+    "ng-packagr": "^4.7.1",
     "rxjs": "^6.2.1",
     "typescript": "^3.3.3333",
     "zone.js": "^0.8.26"
