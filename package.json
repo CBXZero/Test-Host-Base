@@ -23,6 +23,7 @@
     "@angular/platform-browser": "*",
     "ng-packagr": "^4.7.1",
     "rxjs": "^6.2.1",
+    "tar": "^4.4.8",
     "typescript": "^3.3.3333",
     "zone.js": "^0.8.26"
   }
